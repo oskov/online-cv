@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
+  name: Vladimirs Šafrans
   title: Backend Developer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: faklosg@gmail.com
+  phone: 
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website:
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github:
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
@@ -39,31 +39,38 @@ experiences:
   title: Experiences
   items:
     - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+      time: 2019.05 - present
+      company: Dynatech
       tag:
-      location: Beijing
+      location: Riga
       details: |
         Experience in this company:
-        + First
-        + Second
+        + 2021.06 - present : Go 1.17, solo rewriting existing flight search system from PHP to Go to decrease costs for servers, successfuly deployed first Go project to production in the company. 
+        + 2020.12 - 2021.06 : Node.js (JS + TS), solo supporting for important business project, automated several complex business processes. 
+        + 2019.05 - 2020.12 : PHP 7.0+, working on different existing projects related to low-level travel business, implemented several SOAP APIs for flight searches.
+        Other tech stack:
+        + MariaDb
+        + Redis
+        + Docker
+        + Linux
+        + Prometheus
+        + Grafana
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Full stack developer
+      time: 2021.03 - 2021.05
+      company:
+      tag: Remote, contract
+      location:
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        Contract for building demo project for start-up 
+        Stack:
+        + Node.js
+        + Angular.js
+        + Protocol buffers
+        + Gulp.js for complex building pipelines for front-end application 
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -101,46 +108,24 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+    - university: Rigas Technical University
+      time: 2017 - 2020
+      major: Computer systems
+      degree: Bacnhelor
 
 certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
+    - name: Algorithmic Toolbox
       authority: Coursera
       time: 2020
       link:
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+        CS course for basic algorithmic tehcnics, like greedy algorithms, dynamic programming, divide and conquer, etc.
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,14 +141,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -175,9 +160,13 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Programming
       link:
     - item: Cooking
+      link:
+    - item: Board games
+      link::
+    - item: Computer games
       link:
 
 evaluation:
