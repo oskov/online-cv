@@ -1,6 +1,6 @@
 basic:
   name: Vladimirs Šafrans
-  title: Backend Developer
+  title: Software Engineer
   avatar:
     display: false
     path: profile.png
@@ -13,10 +13,10 @@ contact:
   telegram:
   website:
   medium:
-  linkedin:
+  linkedin: warlodya
   googlescholar:
   researchgate:
-  github:
+  github: oskov
   gitlab:
   bitbucket:
   twitter:
@@ -28,11 +28,9 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    Hardworking person with interests in problem solving, programming languages and programming techniques. 
+    I have 8+ years of programming experience for myself and 3 years of professional experience. 
+    I strive to be professional, learn new things and solve complex problems. 
 
 experiences:
   display: true
@@ -48,7 +46,8 @@ experiences:
         + 2021.06 - present : Go 1.17, solo rewriting existing flight search system from PHP to Go to decrease costs for servers, successfuly deployed first Go project to production in the company. 
         + 2020.12 - 2021.06 : Node.js (JS + TS), solo supporting for important business project, automated several complex business processes. 
         + 2019.05 - 2020.12 : PHP 7.0+, working on different existing projects related to low-level travel business, implemented several SOAP APIs for flight searches.
-        Other tech stack:
+        
+        Other tech stack: 
         + MariaDb
         + Redis
         + Docker
@@ -63,46 +62,29 @@ experiences:
       location:
       details: |
         Contract for building demo project for start-up 
+
         Stack:
         + Node.js
         + Angular.js
         + Protocol buffers
         + Gulp.js for complex building pipelines for front-end application 
 
-projects:
-  display: false
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    + Programming in different programming languages using different paradigms. Including Javascript, Typescript, Go, Java, PHP, C++ and others.
+    + Back-end development with PHP /Go / Node.js + MariaDb / Redis / Prometheus
+    + Front-end development using Angular / AnuglarJs / Javascript / Typescript
+    + Basics of enteprise level back-end frameworks like Spring (Java) / Symfony (PHP)
+    + Linux
+    + Docker
 
   levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
+    - name: Back-end
       level: 80
-    - name: Skill C
-      level: 70
+    - name: Front-end
+      level: 40
 
 education:
   display: true
@@ -122,7 +104,7 @@ certificates:
       time: 2020
       link:
       details: |
-        CS course for basic algorithmic tehcnics, like greedy algorithms, dynamic programming, divide and conquer, etc.
+        CS course for basic algorithmic techniques, like greedy algorithms, dynamic programming, divide and conquer, etc.
 
 publications:
   display: false
@@ -165,19 +147,15 @@ interests:
     - item: Cooking
       link:
     - item: Board games
-      link::
+      link:
     - item: Computer games
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
 
-    ...
 
 footer:
   display: true
