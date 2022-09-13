@@ -8,13 +8,13 @@ Yet another resume template based on Jekyll. You can write your resume using Mar
 
 Features:
 
-+ Easy to use/edit/hide
-+ Jekyll + Markdown + Github Pages
-+ Multiple languages
-+ Multiple skins
-+ Content modular
-+ Responsive display
-+ Print-friendly
+-   Easy to use/edit/hide
+-   Jekyll + Markdown + Github Pages
+-   Multiple languages
+-   Multiple skins
+-   Content modular
+-   Responsive display
+-   Print-friendly
 
 ## Getting Started
 
@@ -24,25 +24,25 @@ Features:
 
 Fork this repository:
 
-![](https://github.com/tarrex/online-resume/raw/master/assets/images/fork.png "fork this repository")
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/fork.png 'fork this repository')
 
 Edit the YAML file located in `_data/data.yml`:
 
-![](https://github.com/tarrex/online-resume/raw/master/assets/images/edit.png "edit the yaml file")
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/edit.png 'edit the yaml file')
 
 Setting the Github pages source branch in `settings -> Github Pages -> source`, select `master branch`:
 
-![](https://github.com/tarrex/online-resume/raw/master/assets/images/source.png "select github pages source branch")
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/source.png 'select github pages source branch')
 
 Wait a little while, open `https://YOUR_GITHUB_USERNAME.github.io/online-resume` in your browser. You can see your resume.
 
 with profile photo:
 
-![](https://github.com/tarrex/online-resume/raw/master/assets/images/resume1.png "resume with profile photo")
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/resume1.png 'resume with profile photo')
 
 without profile photo:
 
-![](https://github.com/tarrex/online-resume/raw/master/assets/images/resume2.png "resume without profile photo")
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/resume2.png 'resume without profile photo')
 
 If you want to print your resume, just press the shortcut of print. Also, it can be saved as a PDF file.
 
@@ -52,11 +52,11 @@ If you want to use it locally, you should clone this repository then just like d
 
 ### Customization
 
-+ `_data/data.yml`: All the resume content.
-+ `assets/images/profile.png`: Your profile photo.
-+ `_config.yml`: Site's general settings.
-+ `index.html`: Change the resume content's display order.
-+ `_sass/_base.scss`: Change the resume display style.
+-   `_data/data.yml`: All the resume content.
+-   `assets/images/profile.png`: Your profile photo.
+-   `_config.yml`: Site's general settings.
+-   `index.html`: Change the resume content's display order.
+-   `_sass/_base.scss`: Change the resume display style.
 
 ## License
 
@@ -64,4 +64,4 @@ If you want to use it locally, you should clone this repository then just like d
 
 ## Others
 
-+ Hugo Version: [hugo-theme-online-resume](https://github.com/tarrex/hugo-theme-online-resume)
+-   Hugo Version: [hugo-theme-online-resume](https://github.com/tarrex/hugo-theme-online-resume)

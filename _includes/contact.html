@@ -101,4 +101,10 @@
         <a href="https://www.goodreads.com/user/show/{{ contact.goodreads }}" target="_blank">{{ contact.goodreads }}</a>
     </li>
     {% endif %}
+
+    {% if contact.codewars%}
+    <li class="quora">Codewars:
+        <a href="https://www.codewars.com/users/{{ contact.codewars }}" target="_blank">{{ contact.codewars }}</a>
+    </li>
+    {% endif %}
 </ul>
