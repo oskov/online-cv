@@ -44,9 +44,9 @@ experiences:
           location: Riga
           details: |
               Experience in this company:
-              + 2021.06 - 2022.07 : Go 1.17, solo rewriting existing flight search system from PHP to Go to decrease costs for servers, successfuly deployed first Go project to production in the company. 
-              + 2020.12 - 2021.06 : Node.js (JS + TS), solo supporting for important business project, automated several complex business processes. 
-              + 2019.05 - 2020.12 : PHP 7.0+, working on different existing projects related to low-level travel business, implemented several SOAP APIs for flight searches.
+              + 2021.06 - 2022.07 : Go 1.17, single-handedly rewrote an existing flight search system from PHP to Go to decrease costs for servers, successfully deployed the first Go project to production in the company. 
+              + 2020.12 - 2021.06 : Node.js (JS + TS), maintained an important business project, automated several complex business processes. 
+              + 2019.05 - 2020.12 : PHP 7.0+, worked on various projects related to low-level travel business, implemented support for several SOAP APIs for flight searches.
 
               Other tech stack: 
               + MariaDb
@@ -62,7 +62,7 @@ experiences:
           tag: Remote, contract
           location:
           details: |
-              Contract for building demo project for start-up 
+              Contract for building a demo project for start-up 
 
               Stack:
               + Node.js
