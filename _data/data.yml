@@ -38,13 +38,13 @@ experiences:
     title: Experiences
     items:
         - role: Backend Developer
-          time: 2019.05 - 2021.07
+          time: 2019.05 - 2022.07
           company: Dynatech
           tag:
           location: Riga
           details: |
               Experience in this company:
-              + 2021.06 - 2021.07 : Go 1.17, solo rewriting existing flight search system from PHP to Go to decrease costs for servers, successfuly deployed first Go project to production in the company. 
+              + 2021.06 - 2022.07 : Go 1.17, solo rewriting existing flight search system from PHP to Go to decrease costs for servers, successfuly deployed first Go project to production in the company. 
               + 2020.12 - 2021.06 : Node.js (JS + TS), solo supporting for important business project, automated several complex business processes. 
               + 2019.05 - 2020.12 : PHP 7.0+, working on different existing projects related to low-level travel business, implemented several SOAP APIs for flight searches.
 
