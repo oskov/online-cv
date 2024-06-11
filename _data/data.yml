@@ -1,6 +1,6 @@
 basic:
     name: Vladimirs Šafrans
-    title: Software Engineer
+    title: Senior Software Engineer
     avatar:
         display: false
         path: profile.png
@@ -30,24 +30,24 @@ profile:
     title: Profile
     details: |
         Hardworking person with interests in problem solving, programming languages and programming techniques. 
-        I have 8+ years of programming experience for myself and 3 years of professional experience. 
+        I have 10+ years of programming experience for myself and 5+ years of professional experience. 
         I strive to be professional, learn new things and solve complex problems.
 
 experiences:
     display: true
     title: Experiences
     items:
-        - role: Backend Developer
+        - role: Software Developer
           time: 2019.05 - present
           company: Dynatech
           tag:
           location: Riga
           details: |
               Experience in this company:
-              + 2022.10 - present : Go 1.19 + PHP 7.0, improving the internal mail system with Golang and parallelization.
-              + 2021.06 - 2022.07 : Go 1.17, single-handedly rewrote an existing flight search system from PHP to Go to decrease costs for servers, successfully deployed the first Go project to production in the company. 
+              + 2022.10 - present : Golang and PHP, improving the internal mail system with Golang and parallelization.
+              + 2021.06 - 2022.07 : Golang, single-handedly rewrote an existing flight search system from PHP to Go to decrease costs for servers, successfully deployed the first Go project to production in the company. 
               + 2020.12 - 2021.06 : Node.js (JS + TS), maintained an important business project, automated several complex business processes. 
-              + 2019.05 - 2020.12 : PHP 7.0+, worked on various projects related to low-level travel business, implemented support for several SOAP APIs for flight searches.
+              + 2019.05 - 2020.12 : PHP, worked on various projects related to low-level travel business, implemented support for several SOAP APIs for flight searches.
 
               Other tech stack: 
               + MariaDb
@@ -68,7 +68,7 @@ experiences:
               Stack:
               + Node.js
               + Angular.js
-              + Protocol buffers
+              + GRPC
               + Gulp.js for complex building pipelines for front-end application
 
 skills:
@@ -76,19 +76,8 @@ skills:
     title: Skills
     details: |
         + Programming in different programming languages using different paradigms. Including Javascript, Typescript, Go, Java, PHP, C++ and others.
-        + Back-end development with PHP / Go / Node.js + MariaDb / Redis / Prometheus
-        + Front-end development using Angular / AnuglarJs / Javascript / Typescript
-        + Basics of enteprise level back-end frameworks like Spring (Java) / Symfony (PHP)
-        + Linux
-        + Docker
-
-    levels:
-        - name: Back-end
-          level: 90
-        - name: Docker/Linux
-          level: 50
-        - name: Front-end
-          level: 20
+        + Back-end development with PHP / Go / Node.js / MariaDB / Redis / Prometheus / Linux / Docker
+        + Front-end development using Angular / AnuglarJS / Javascript / Typescript
 
 education:
     display: true
@@ -134,10 +123,10 @@ patents:
         + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-    display: false
+    display: true
     title: Languages
     items:
-        - idiom: Chinese
+        - idiom: Russian
           level: Native
         - idiom: English
           level: Professional
