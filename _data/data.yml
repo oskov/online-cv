@@ -47,9 +47,9 @@ experiences:
           details: |
               Experience:
               + 2024.04 - present : 
-                    - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
-                    - Led the successful migration to a new email API, implementing a completely new approach for handling emails within the system, ensuring compatibility and scalability.
-                    - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
+                  - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
+                  - Led the successful migration to a new email API, implementing a completely new approach for handling emails within the system, ensuring compatibility and scalability.
+                  - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
               
         - role: Software Developer
           time: 2019.05 - 2024.04
@@ -68,14 +68,13 @@ experiences:
               + 2019.05 - 2020.12 : Worked on various PHP-based projects focused on the low-level travel business, implementing support for multiple SOAP APIs for flight searches.
 
               Technologies:
-              + Programming Languages: Golang, PHP, Node.js (JavaScript + TypeScript)
-              + Databases: MariaDB
-              + Other Tools: Redis, Docker, Linux, Prometheus, Grafana, Angular
+              + <b>Programming Languages</b>: Golang, PHP, Node.js (JavaScript + TypeScript)
+              + <b>Databases</b>: MariaDB
+              + <b>Other Tools</b>: Redis, Docker, Linux, Prometheus, Grafana, Angular
 
         - role: Full stack developer
           time: 2021.03 - 2021.05
           company:
-          tag: Remote, contract
           location:
           details: |
               Contract for building a demo project for start-up 
