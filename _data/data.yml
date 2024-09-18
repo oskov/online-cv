@@ -29,11 +29,8 @@ profile:
     display: true
     title: Profile
     details: |
-        Senior Software Engineer with over 10 years of diverse coding experience and 5+ years of specialized professional expertise in backend development, system architecture, and API integrations.
-
-        A dedicated problem solver with a deep interest in programming languages and cutting-edge techniques. 
-        With a decade of coding experience and over five years of professional work in the industry, I am committed to continuous learning and delivering high-quality solutions to complex challenges. 
-        My goal is to maintain a high standard of professionalism while constantly expanding my knowledge and skills.
+        Senior Software Engineer with over 10 years of diverse coding experience and 5+ years of specialized professional expertise in backend development, system architecture, and API integrations. 
+        Passionate about solving complex problems and continuously improving system performance.
 
 experiences:
     display: true
@@ -48,12 +45,8 @@ experiences:
               Experience:
               + 2024.04 - present : 
                   - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
-                  - Led the successful migration to a new email API, implementing a completely new approach for handling emails within the system, ensuring compatibility and scalability.
                   - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
-                  - Created and maintained internal Golang libraries:
-                      * Developed a library implementing communication using our internal synchronous RPC protocol, streamlining service-to-service interactions.
-                      * Built a library for asynchronous communication using Redis streams, enabling efficient and reliable message passing across services.
-                      * Actively contributed to the development of other internal libraries and participated in code reviews, ensuring code quality and enhancing the overall system architecture.
+                  - Developed and maintained Golang libraries for synchronous RPC communication and Redis-based asynchronous messaging. Led code reviews to ensure high-quality, scalable solutions.
               
         - role: Software Developer
           time: 2019.05 - 2024.04
@@ -62,14 +55,10 @@ experiences:
           location: Riga
           details: |
               Experience:
-              + 2022.10 - 2024.04 : 
-                  - Enhanced the internal mail system by introducing Golang and parallelization techniques, resulting in significant performance improvements.
-                  - Took complete responsibility for entire project lifecycles, ensuring seamless integration and delivery.
-              + 2021.06 - 2022.07 : 
-                  - Single-handedly rewrote an existing flight search system from PHP to Golang, leading to a substantial reduction in server costs.
-                  - Successfully delivered the company's first Golang project to production, establishing a new standard for future developments. 
+              + 2022.10 - 2024.04 : Enhanced the internal mail system by introducing Golang and parallelization techniques, taking full responsibility for the project lifecycle to ensure seamless integration and significant performance improvements.
+              + 2021.06 - 2022.07 : Single-handedly rewrote the flight search system from PHP to Golang, reducing server costs and successfully delivering the company’s first Golang project to production, setting a new standard for future developments.
               + 2020.12 - 2021.06 : Maintained a critical business project using Node.js (JavaScript + TypeScript), automating complex business processes to increase operational efficiency. 
-              + 2019.05 - 2020.12 : Worked on various PHP-based projects focused on the low-level travel business, implementing support for multiple SOAP APIs for flight searches.
+              + 2019.05 - 2020.12 : Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
               Technologies:
               + <b>Programming Languages</b>: Golang, PHP, Node.js (JavaScript + TypeScript)
@@ -81,19 +70,14 @@ experiences:
           company:
           location:
           details: |
-              Contract for building a demo project for start-up 
-
-              Stack:
-              + Node.js
-              + Angular.js
-              + GRPC
-              + Gulp.js for complex building pipelines for front-end application
+              Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
+              The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
 
 skills:
     display: true
     title: Skills
     details: |
-        + Proficient in multiple programming languages across various paradigms, including Go, JavaScript, TypeScript, Java, PHP, C++, and more.
+        + Proficient in multiple programming languages across various paradigms, including Go, JavaScript, TypeScript, PHP, and more.
         + Expertise in back-end development using Go, PHP, Node.js, MariaDB, Redis, Prometheus, Linux, and Docker.
         + Front-end development skills with Angular, AngularJS, JavaScript, and TypeScript.
 
