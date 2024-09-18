@@ -50,6 +50,10 @@ experiences:
                   - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
                   - Led the successful migration to a new email API, implementing a completely new approach for handling emails within the system, ensuring compatibility and scalability.
                   - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
+                  - Created and maintained internal Golang libraries:
+                      * Developed a library implementing communication using our internal synchronous RPC protocol, streamlining service-to-service interactions.
+                      * Built a library for asynchronous communication using Redis streams, enabling efficient and reliable message passing across services.
+                      * Actively contributed to the development of other internal libraries and participated in code reviews, ensuring code quality and enhancing the overall system architecture.
               
         - role: Software Developer
           time: 2019.05 - 2024.04
