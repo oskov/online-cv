@@ -30,7 +30,7 @@ profile:
     title: Profile
     details: |
         Senior Software Engineer with over 10 years of diverse coding experience and 5+ years of specialized professional expertise in backend development, system architecture, and API integrations. 
-        Passionate about solving complex problems and continuously improving system performance.
+        Passionate about solving complex problems, researching new technologies and continuously improving system performance.
 
 experiences:
     display: true
@@ -46,7 +46,7 @@ experiences:
               + 2024.04 - present : 
                   - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
                   - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
-                  - Developed and maintained Golang libraries for synchronous RPC communication and Redis-based asynchronous messaging. Led code reviews to ensure high-quality, scalable solutions.
+                  - Developed and maintained internal Golang libraries for cross-service communication.
               
         - role: Software Developer
           time: 2019.05 - 2024.04
@@ -55,9 +55,9 @@ experiences:
           location: Riga
           details: |
               Experience:
-              + 2022.10 - 2024.04 : Enhanced the internal mail system by introducing Golang and parallelization techniques, taking full responsibility for the project lifecycle to ensure seamless integration and significant performance improvements.
-              + 2021.06 - 2022.07 : Single-handedly rewrote the flight search system from PHP to Golang, reducing server costs and successfully delivering the company’s first Golang project to production, setting a new standard for future developments.
-              + 2020.12 - 2021.06 : Maintained a critical business project using Node.js (JavaScript + TypeScript), automating complex business processes to increase operational efficiency. 
+              + 2022.10 - 2024.04 : Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
+              + 2021.06 - 2022.07 : Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
+              + 2020.12 - 2021.06 : Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript)
               + 2019.05 - 2020.12 : Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
               Technologies:
@@ -91,7 +91,7 @@ education:
           degree: Bachelor of Science
 
 certificates:
-    display: true
+    display: false
     title: Certificates
     items:
         - name: Algorithmic Toolbox
@@ -134,7 +134,7 @@ languages:
           level: Professional
 
 interests:
-    display: true
+    display: false
     title: Interests
     items:
         - item: Programming
