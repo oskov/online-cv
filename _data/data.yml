@@ -13,7 +13,7 @@ contact:
     telegram:
     website:
     medium:
-    linkedin: warlodya
+    linkedin: vsafrans
     googlescholar:
     researchgate:
     github: oskov
@@ -72,8 +72,8 @@ skills:
     display: true
     title: Skills
     details: |
-        + Proficient in multiple programming languages across various paradigms, including Go, JavaScript, TypeScript, PHP, and more.
-        + Expertise in back-end development using Go, PHP, Node.js, MariaDB, Redis, Prometheus, Linux, and Docker.
+        + Proficient in multiple programming languages across various paradigms, including Go, JavaScript, TypeScript, PHP, Python, Java, and some others.
+        + Expertise in back-end development using Go, PHP, Node.js, MariaDB, Redis, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
         + Front-end development skills with Angular, AngularJS, JavaScript, and TypeScript.
 
 education:
