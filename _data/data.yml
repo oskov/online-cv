@@ -60,21 +60,24 @@ experiences:
               + 2020.12 - 2021.06 : Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript)
               + 2019.05 - 2020.12 : Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
-        - role: Full stack developer
-          time: 2021.03 - 2021.05
-          company: Freelance
-          location: Remote
-          details: |
-              Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
-              The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
+        # - role: Full stack developer
+        #  time: 2021.03 - 2021.05
+        #  company: Freelance
+        #  location: Remote
+        #  details: |
+        #      Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
+        #      The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
 
 skills:
     display: true
     title: Skills
     details: |
-        + Proficient in multiple programming languages across various paradigms, including Go, JavaScript, TypeScript, PHP, Python, Java, and some others.
-        + Expertise in back-end development using Go, PHP, Node.js, MariaDB, Redis, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
-        + Front-end development skills with Angular, AngularJS, JavaScript, and TypeScript.
+        + Proficient in multiple programming languages:  
+            Go, JavaScript, TypeScript, PHP, Python, Java, and some others.
+        + Expertise in back-end development using: 
+            Go, PHP, Node.js, MariaDB, Redis, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
+        + Front-end development skills: 
+            Angular, React.js, JavaScript, and TypeScript.
 
 education:
     display: true
