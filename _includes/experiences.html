@@ -11,7 +11,13 @@
 
             <div class="upper-row">
                 <div class="company">
-                    {{ experience.company }}
+                    {% if experience.url %}
+                    <a href="{{ experience.url }}" target="_blank" rel="noopener noreferrer">
+                        <u>{{ experience.company }}</u>
+                    </a>
+                    {% else %}
+                    <u>{{ experience.company }}</u>
+                    {% endif %}
                     {% if experience.tag %}
                     <small>[{{ experience.tag }}]</small>
                     {% endif %}

@@ -68,7 +68,11 @@ small {
             overflow: hidden;
             margin-bottom: 2px;
 
-            .company,
+            .company {
+                a {
+                    color: inherit;
+                }
+            }
             .certificate,
             .university {
                 font-weight: $base-font-weight * 1.75;

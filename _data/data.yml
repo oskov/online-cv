@@ -40,6 +40,7 @@ experiences:
         - role: Senior Software Developer
           time: 2024.04 - 2025.05
           company: Dynatech
+          url: https://dyninno.com/en/technologies/
           tag:
           location: Riga
           details: |
@@ -53,6 +54,7 @@ experiences:
         - role: Software Developer
           time: 2019.05 - 2024.04
           company: Dynatech
+          url: https://dyninno.com/en/technologies/
           tag:
           location: Riga
           details: |
@@ -133,6 +135,8 @@ languages:
           level: Native
         - idiom: English
           level: Professional
+        - idiom: Latvian
+          level: Professional  
 
 interests:
     display: false
