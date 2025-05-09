@@ -23,7 +23,7 @@ contact:
     stackoverflow:
     quora:
     goodreads:
-    codewars: oskov
+    #codewars: oskov
 
 profile:
     display: true
