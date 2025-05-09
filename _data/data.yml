@@ -37,13 +37,13 @@ experiences:
     title: Experiences
     items:
         - role: Senior Software Developer
-          time: 2024.04 - 2025.03
+          time: 2024.04 - 2025.05
           company: Dynatech
           tag:
           location: Riga
           details: |
               Experience:
-              + 2024.04 - 2025.03 : 
+              + 2024.04 - 2025.05 : 
                   - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
                   - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
                   - Developed and maintained internal Golang libraries for cross-service communication.
@@ -56,28 +56,29 @@ experiences:
           details: |
               Experience:
               + 2022.10 - 2024.04 : Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
-              + 2021.06 - 2022.07 : Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
+              + 2022.04 - 2022.10 : Developed a completely new Golang service that utilized Bloom filter probabilistic data structure using data from AWS S3.
+              + 2021.06 - 2022.04 : Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
               + 2020.12 - 2021.06 : Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript)
               + 2019.05 - 2020.12 : Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
-        # - role: Full stack developer
-        #  time: 2021.03 - 2021.05
-        #  company: Freelance
-        #  location: Remote
-        #  details: |
-        #      Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
-        #      The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
+        - role: Full stack developer
+          time: 2021.03 - 2021.05
+          company: Freelance
+          location: Remote
+          details: |
+              Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
+              The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
 
 skills:
     display: true
     title: Skills
     details: |
         + Proficient in multiple programming languages:  
-            Go, JavaScript, TypeScript, PHP, Python, Java, and some others.
+            - Go, JavaScript, TypeScript, PHP, Python, Java.
         + Expertise in back-end development using: 
-            Go, PHP, Node.js, MariaDB, Redis, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
+            - Go, PHP, Node.js, MariaDB, Redis, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
         + Front-end development skills: 
-            Angular, React.js, JavaScript, and TypeScript.
+            - Angular, React.js, JavaScript, and TypeScript.
 
 education:
     display: true
