@@ -29,8 +29,9 @@ profile:
     display: true
     title: Profile
     details: |
-        Senior Software Engineer with 10+ years of diverse coding experience and 6+ years of professional experience in backend development, system architecture, and API integrations. 
-        Passionate about solving complex problems, researching new technologies and continuously improving system performance.
+        Senior Software Engineer with 10+ years of diverse coding experience and 6+ years of professional expertise in backend development, system architecture, and API integrations.
+        Proactive and accountable, I take ownership of my work and its outcomes, consistently striving to exceed expectations and push beyond my comfort zone. Skilled in both independent work and collaborative team settings, effectively balancing individual contributions with cross-functional cooperation. 
+        Passionate about solving complex problems, researching new technologies, and continuously improving system performance.
 
 experiences:
     display: true
@@ -47,6 +48,7 @@ experiences:
                   - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
                   - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
                   - Developed and maintained internal Golang libraries for cross-service communication.
+                  - Mentored other developers in Golang best practices and design patterns, fostering a culture of knowledge sharing and continuous improvement.
               
         - role: Software Developer
           time: 2019.05 - 2024.04
