@@ -67,8 +67,8 @@ experiences:
 
         - role: Full stack developer
           time: 2021.03 - 2021.05
-          company: Freelance
-          location: Remote
+          company: GPU Audio
+          location: Remote, Contract
           details: |
               Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
               The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
