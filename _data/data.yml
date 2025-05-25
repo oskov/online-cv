@@ -44,10 +44,10 @@ experiences:
           tag:
           location: Riga
           details: |
-            - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
-            - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
-            - Developed and maintained internal Golang libraries for cross-service communication.
-            - Mentored other developers in Golang best practices and design patterns, fostering a culture of knowledge sharing and continuous improvement.
+                - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
+                - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
+                - Developed and maintained internal Golang libraries for cross-service communication.
+                - Mentored other developers in Golang best practices and design patterns, fostering a culture of knowledge sharing and continuous improvement.
               
         - role: Software Developer
           time: 2019.05 - 2024.04
@@ -56,11 +56,11 @@ experiences:
           tag:
           location: Riga
           details: |
-            - Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
-            - Developed a completely new Golang service that utilized Bloom filter probabilistic data structure using data from AWS S3.
-            - Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
-            - Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript)
-            - Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
+                - Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
+                - Developed a completely new Golang service that utilized Bloom filter probabilistic data structure using data from AWS S3.
+                - Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
+                - Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript)
+                - Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
         - role: Full stack developer
           time: 2021.03 - 2021.05
