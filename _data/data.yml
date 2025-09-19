@@ -1,17 +1,160 @@
+basic:
+    name: Vladimirs Šafrans
+    title: Senior Software Engineer
+    avatar:
+        display: false
+        path: profile.png
+
+contact:
+    email: faklosg@gmail.com
+    phone:
+    wechat:
+    whatsapp:
+    telegram:
+    website:
+    medium:
+    linkedin: vsafrans
+    googlescholar:
+    researchgate:
+    github: oskov
+    gitlab:
+    bitbucket:
+    twitter:
+    stackoverflow:
+    quora:
+    goodreads:
+    #codewars: oskov
+
+profile:
+    display: true
+    title: Profile
+    details: |
+        Senior Software Engineer with 10+ years of diverse coding experience and 6+ years of professional expertise in backend development, system architecture, and API integrations.
+        Proactive and accountable, I take ownership of my work and its outcomes, consistently striving to exceed expectations and push beyond my comfort zone. Skilled in both independent work and collaborative team settings, effectively balancing individual contributions with cross-functional cooperation. 
+        Passionate about solving complex problems, researching new technologies, and continuously improving system performance.
+
 experiences:
-  items:
-    - role: Software Engineer (Contractor)
-      time: 2025.06 - Present
-      company: Ericsson
-      location: Remote
-      details:
-        - Developing internal CLI tools for infrastructure management using Golang.
-        - Collaborating with infrastructure and DevOps teams to automate and streamline operational workflows.
-        - Delivering robust, maintainable, and well-documented CLI solutions tailored to internal needs.
-        - Ensuring best practices in code quality, testing, and deployment for critical infrastructure tools.
-    - role: Previous Role
-      time: Previous Time
-      company: Previous Company
-      location: Previous Location
-      details:
-        - Previous details...
+    display: true
+    title: Experiences
+    items:
+        - role: Senior Software Developer
+          time: 2024.04 - 2025.05
+          company: Dynatech
+          url: https://dyninno.com/en/technologies/
+          tag:
+          location: Riga
+          details: |
+                - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
+                - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
+                - Developed and maintained internal Golang libraries for cross-service communication.
+                - Mentored other developers in Golang best practices and design patterns, fostering a culture of knowledge sharing and continuous improvement.
+              
+        - role: Software Developer
+          time: 2019.05 - 2024.04
+          company: Dynatech
+          url: https://dyninno.com/en/technologies/
+          tag:
+          location: Riga
+          details: |
+                - Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
+                - Developed a completely new Golang service that utilized Bloom filter probabilistic data structure using data from AWS S3.
+                - Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
+                - Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript)
+                - Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
+
+        - role: Full stack developer
+          time: 2021.03 - 2021.05
+          company: GPU Audio
+          location: Remote, Contract
+          details: |
+              Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
+              The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
+
+skills:
+    display: true
+    title: Skills
+    details: |
+        + Proficient in multiple programming languages:  
+            - Go, JavaScript, TypeScript, PHP, Python, Java.
+        + Expertise in back-end development using: 
+            - Go, PHP, Node.js, MariaDB, Redis, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
+        + Front-end development skills: 
+            - Angular, React.js, JavaScript, and TypeScript.
+
+education:
+    display: true
+    title: Education
+    items:
+        - university: Rigas Technical University
+          time: 2017 - 2020
+          major: Computer Systems
+          degree: Bachelor of Science
+
+certificates:
+    display: false
+    title: Certificates
+    items:
+        - name: Algorithmic Toolbox
+          authority: Coursera
+          time: 2020
+          link:
+          details: |
+              CS course for basic algorithmic techniques, like greedy algorithms, dynamic programming, divide and conquer, etc.
+
+publications:
+    display: false
+    title: Publications
+    intro: |
+        This is all the books I wrote.
+
+    items:
+        - title: Foo in Action
+          authors: Foo Bar
+          conference: Foobar, 2019
+          link: https://www.google.com
+        - title: The Art of Bar
+          authors: Foo Bar
+          conference: Foobar, 2019
+          link:
+
+patents:
+    display: false
+    title: Patents
+    details: |
+        This is all my patents.
+        + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+
+languages:
+    display: true
+    title: Languages
+    items:
+        - idiom: Russian
+          level: Native
+        - idiom: English
+          level: Professional
+        - idiom: Latvian
+          level: Professional  
+
+interests:
+    display: false
+    title: Interests
+    items:
+        - item: Programming
+          link:
+        - item: Cooking
+          link:
+        - item: Board games
+          link:
+        - item: Longboarding
+          link:
+
+evaluation:
+    display: false
+    title: Self-evaluation
+    details: |
+
+footer:
+    display: true
+
+close: >
+    Sorry, my resume has been hidden.
