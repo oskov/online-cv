@@ -37,6 +37,17 @@ experiences:
     display: true
     title: Experiences
     items:
+        - role: Software Developer
+          time: 2025.06 - Present
+          company: Ericsson
+          url: 
+          tag:
+          location: Remote, Contract
+          details: |
+                - Designing and developing tools to support and optimize infrastructure operations, including CLI applications and back-end services. 
+                - Focused on building reliable, scalable solutions and improving developer workflows.
+                - Tech stack: Golang, Elasticsearch, PostgreSQL, GitLab CI/CD, Docker, Kubernetes
+                
         - role: Senior Software Developer
           time: 2024.04 - 2025.05
           company: Dynatech
