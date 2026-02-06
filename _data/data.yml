@@ -45,7 +45,6 @@ experiences:
           details: |
                 - Designed and developed a distributed observability platform for server fleet management, enabling real-time monitoring and analysis of thousands of nodes on both Linux and Windows.
                 - Improved developer experience by introducing automated CI/CD activities to ensure software reliability and compliance.
-                - Tech stack: Golang, Elasticsearch, PostgreSQL, GitLab CI/CD, Docker, Kubernetes.
                 
         - role: Senior Software Developer
           time: 2024.04 - 2025.05
@@ -77,8 +76,8 @@ experiences:
           company: GPU Audio
           location: Remote, Contract
           details: |
-              Contracted to build a demo project for a start-up, merging multiple web components into a single page and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
-              The tech stack included Angular.js and Gulp.js for creating complex build pipelines for the front-end application.
+                - Contracted to build a demo project for a start-up, merging multiple micro-frontend components into a single Angular application and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
+              
 
 skills:
     display: true
@@ -90,8 +89,6 @@ skills:
             - MariaDB/PostgreSQL, Elasticsearch, Redis, Kafka, REST, gRPC.
         + Infrastructure & DevOps:
             - Docker, Kubernetes, Prometheus, Grafana, Linux, GitLab CI/CD, AWS.
-        + Front-end development skills: 
-            - Angular, React.js.
 
 education:
     display: true
