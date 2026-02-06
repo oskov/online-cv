@@ -44,8 +44,8 @@ experiences:
           tag:
           location: Remote, Contract
           details: |
-                - Designed and developed a distributed observability platform for server fleet management, enabling real-time monitoring and analysis of thousands nodes on both Linux and Windows.
-                - Improved developer experience by introducing automated CI/CD activities to ensure software realability and compliance.
+                - Designed and developed a distributed observability platform for server fleet management, enabling real-time monitoring and analysis of thousands of nodes on both Linux and Windows.
+                - Improved developer experience by introducing automated CI/CD activities to ensure software reliability and compliance.
                 - Tech stack: Golang, Elasticsearch, PostgreSQL, GitLab CI/CD, Docker, Kubernetes.
                 
         - role: Senior Software Developer
@@ -55,7 +55,7 @@ experiences:
           tag:
           location: Riga
           details: |
-                - Spearheaded the development of new Golang services for the internal mail system, taking full ownership of the project from inception to deployment.
+                - Spearheaded the development of high-throughput Golang mail services, taking full ownership from inception to production and scaling the system to handle thousands of notifications per minute.
                 - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
                 - Developed and maintained internal Golang libraries for cross-service communication.
                 - Mentored other developers in Golang best practices and design patterns, fostering a culture of knowledge sharing and continuous improvement and providing code-review assistance across several teams.
@@ -68,8 +68,8 @@ experiences:
           location: Riga
           details: |
                 - Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
-                - Developed a completely new Golang service that utilized Bloom filter probabilistic data structure using data from AWS S3.
-                - Rewrote the flight search system from PHP to Golang, cutting server costs and delivering the company’s first Golang project to production.
+                - Developed a high-efficiency Golang service using Bloom filter probabilistic data structure, handling 10M+ daily requests with ~10 ms p95 latency on 2 small Kubernetes pods.
+                - Architected the company’s first production Golang service, migrating the flight search system from PHP to Go, achieved a 3x reduction in infrastructure costs while maintaining high system stability.
                 - Developed automating complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript).
                 - Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
@@ -85,12 +85,14 @@ skills:
     display: true
     title: Skills
     details: |
-        + Proficient in multiple programming languages:  
-            - Go, JavaScript, TypeScript, PHP, Python, Java.
-        + Expertise in back-end development using: 
-            - Go, PHP, Node.js, MariaDB, Redis, Elasticsearch, Kafka, Prometheus, Grafana, Linux, AWS, Docker, and Kubernetes.
+        + Languages: 
+            - Go (Expert), TypeScript, JavaScript, PHP, Java.
+        + Backend & Distributed Systems: 
+            - MariaDB/PostgreSQL, Elasticsearch, Redis, Kafka, REST, gRPC.
+        + Infrastructure & DevOps:
+            - Docker, Kubernetes, Prometheus, Grafana, Linux, GitLab CI/CD, AWS.
         + Front-end development skills: 
-            - Angular, React.js, JavaScript, and TypeScript.
+            - Angular, React.js.
 
 education:
     display: true
