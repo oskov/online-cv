@@ -68,15 +68,15 @@ experiences:
                 - Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
                 - Developed a high-efficiency Golang service using Bloom filter probabilistic data structure, handling 10M+ daily requests with ~10 ms p95 latency on 2 small Kubernetes pods.
                 - Architected the company’s first production Golang service, migrating the flight search system from PHP to Go, achieved a 3x reduction in infrastructure costs while maintaining high system stability.
-                - Developed automated complex business processes to increase operational efficiency.  Node.js (JavaScript + TypeScript).
+                - Developed automated complex business processes to increase operational efficiency. Node.js (JavaScript + TypeScript).
                 - Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
-        - role: Full stack developer
+        - role: Full-Stack developer
           time: March 2021 - May 2021
           company: GPU Audio
           location: Remote, Contract
           details: |
-                - Contracted to build a demo project for a start-up, merging multiple micro-frontend components into a single Angular application and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
+                - Contracted to build a demo project for a startup, merging multiple micro-frontend components into a single Angular application and ensuring seamless interaction using a Node.js server and the gRPC protocol. 
               
 
 skills:
@@ -95,7 +95,7 @@ education:
     title: Education
     items:
         - university: Rigas Technical University
-          time: 2017 September - 2020 July
+          time: September 2017 – July 2020
           major: Computer Systems
           degree: Bachelor of Science
 
