@@ -29,15 +29,15 @@ profile:
     display: true
     title: Profile
     details: |
-        Senior Software Engineer (Backend / Distributed Systems) with 6+ years of professional experience (10+ total), specializing in high-load Golang services and distributed system design. 
-        Strong ownership mindset: from architecture and research to production rollout and performance tuning. Led technical migrations, introduced new languages, and mentored engineering teams. 
+        Senior Software Engineer (Backend / Distributed Systems) ыpecializing in high-load Golang services with extensive experience in distributed system design.
+        Full-cycle technical leader: I drive architecture, lead migrations, and ensure production stability. Strong advocate for engineering excellence, experienced in mentoring teams and introducing modern tech stacks to legacy environments.
 
 experiences:
     display: true
     title: Experiences
     items:
         - role: Software Developer
-          time: 2025.06 - Present
+          time: June 2025 - Present
           company: Ericsson
           url: 
           tag:
@@ -47,7 +47,7 @@ experiences:
                 - Improved developer experience by introducing automated CI/CD activities to ensure software reliability and compliance.
                 
         - role: Senior Software Developer
-          time: 2024.04 - 2025.05
+          time: April 2024 - February 2025
           company: Dynatech
           url: https://dyninno.com/en/technologies/
           tag:
@@ -59,7 +59,7 @@ experiences:
                 - Mentored other developers in Golang best practices and design patterns, fostering a culture of knowledge sharing and continuous improvement and providing code-review assistance across several teams.
               
         - role: Software Developer
-          time: 2019.05 - 2024.04
+          time: May 2019 - April 2024
           company: Dynatech
           url: https://dyninno.com/en/technologies/
           tag:
@@ -72,7 +72,7 @@ experiences:
                 - Developed PHP solutions for travel business projects, integrating multiple SOAP APIs for flight searches.
 
         - role: Full stack developer
-          time: 2021.03 - 2021.05
+          time: March 2021 - May 2021
           company: GPU Audio
           location: Remote, Contract
           details: |
@@ -95,7 +95,7 @@ education:
     title: Education
     items:
         - university: Rigas Technical University
-          time: 2017 - 2020
+          time: 2017 September - 2020 July
           major: Computer Systems
           degree: Bachelor of Science
 
