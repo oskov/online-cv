@@ -51,7 +51,7 @@ experiences:
           company: Dynatech
           url: https://dyninno.com/en/technologies/
           tag:
-          location: Riga
+          location: Riga, Latvia
           details: |
                 - Spearheaded the development of high-throughput Golang mail services, taking full ownership from inception to production and scaling the system to handle thousands of notifications per minute.
                 - Designed and executed the integration of complex email workflows, optimizing system performance and user experience.
@@ -63,7 +63,7 @@ experiences:
           company: Dynatech
           url: https://dyninno.com/en/technologies/
           tag:
-          location: Riga
+          location: Riga, Latvia
           details: |
                 - Improved the internal mail system with Golang and parallelization, ensuring seamless integration and better performance.
                 - Developed a high-efficiency Golang service using Bloom filter probabilistic data structure, handling 10M+ daily requests with ~10 ms p95 latency on 2 small Kubernetes pods.
