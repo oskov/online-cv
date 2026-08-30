@@ -36,8 +36,18 @@ experiences:
     display: true
     title: Experiences
     items:
+        - role: Software Engineer
+          time: June 2026 - Present
+          company: Google
+          url: https://www.google.com/
+          tag:
+          location: Warsaw, Poland
+          details: |
+                - GKE networking team
+                - GCP, GKE, K8s, Golang
+                
         - role: Software Developer
-          time: June 2025 - Present
+          time: June 2025 - May 2026
           company: Ericsson
           url: 
           tag:
